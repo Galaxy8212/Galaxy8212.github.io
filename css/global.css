@@ -1,6 +1,6 @@
 :root {
     /* change theme */
-    --mdc-theme-primary: #0092a1;
+    --mdc-theme-primary: #7f009c;
     --mdc-theme-secondary: #546875;
     /* ensure Bootstrap doesn't alter any font sizes set in rem */
     font-size: initial;
