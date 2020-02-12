@@ -5,7 +5,7 @@ layout: default
 icon: home
 ---
 
-#  {{ page.title }}
+#  About Me
 Hi!
 
 My name is Galaxy, I live in the UK and I love Minecraft.
