@@ -41,7 +41,7 @@ body {
     display: flex;
     height: 100vh;
     margin: 0;
-    background-image: url("/graphics/galaxy background.png");
+    background: url("/graphics/galaxy background.png") no-repeat fixed center;
     color: #fff;
 }
 
