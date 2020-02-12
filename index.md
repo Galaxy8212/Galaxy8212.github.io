@@ -1,11 +1,11 @@
 ---
-title: My Website
-description: Galaxy8212's Website
+title: About Me
+description: About Me
 layout: default
 icon: home
 ---
 
-#  About Me
+#  {{ page.title }}
 Hi!
 
 My name is Galaxy, I live in the UK and I love Minecraft.
