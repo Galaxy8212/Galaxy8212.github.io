@@ -41,7 +41,8 @@ body {
     display: flex;
     height: 100vh;
     margin: 0;
-    background-image: url("/graphics/galaxy background.png") 50% 50%;
+    background-image: url("/graphics/galaxy background.png");
+    color: #fff;
 }
 
 .mdc-drawer-app-content {
